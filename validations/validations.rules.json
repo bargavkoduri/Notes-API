@@ -1,0 +1,10 @@
+{
+    "note": {
+        "title" : "required|min:5",
+        "content" : "required|min:10"
+    },
+    "updateNote": {
+        "title" : "min:5",
+        "content" : "min:10"
+    }
+}
